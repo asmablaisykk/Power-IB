@@ -27,6 +27,7 @@ Create tables for all the visualizations. Make these visualizations and create a
 ## Dashboard
 <img width="893" alt="Screenshot 2024-02-11 at 4 02 47 PM" src="https://github.com/asmablaisykk/Power-IB/assets/154601662/2e82cd1d-ec7a-4b99-bcf8-d16190eda550">
 <img width="836" alt="Screenshot 2024-02-11 at 4 03 04 PM" src="https://github.com/asmablaisykk/Power-IB/assets/154601662/4fe39a58-3f5d-4fd1-8493-684ac5a09a81">
+
 ## Conclusion
 
 In conclusion, this project utilized data analytics techniques to analyze the performance of a global superstore. Through the interactive dashboard and data insights, stakeholders can make informed decisions and take necessary actions to achieve their strategic objectives. By leveraging the power of data, businesses can drive growth, improve profitability, and stay competitive in today's dynamic market.
